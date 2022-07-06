@@ -19,4 +19,4 @@ This repository is licensed under the MIT license.
 
 ## Links
 - Github Repo: https://github.com/mayalorimer/E-Commerce-Backend
-- Youtube walkthrough video: 
+- Youtube walkthrough video: https://www.youtube.com/watch?v=lwlG8EQaquU
